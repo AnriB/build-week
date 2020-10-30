@@ -63,7 +63,7 @@ body {
 	margin-left: auto;
 }
 
-.artistButtons li {
+.artistButtons .rounded-pill {
 	width: 200px;
 }
 

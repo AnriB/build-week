@@ -27,7 +27,7 @@
 	margin-left: 0;
 }
 
-.list-item:hover {
+a:hover .list-item {
 	border-left: 5px solid #1db954;
 }
 .bg {
